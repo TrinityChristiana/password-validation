@@ -1,0 +1,21 @@
+
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    text-align: center;
+    font-size: 4em;
+    min-height: 192px;
+}
