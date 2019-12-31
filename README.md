@@ -1,5 +1,6 @@
 # password-validation
-preview at: trinity-password-validation.netlify.com
+
+preview at: [trinity-password-validation.netlify.com](trinity-password-validation.netlify.com)
 ***
 Exercise Directions:
 - Password = "MsDoubtFire"
