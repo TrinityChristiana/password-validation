@@ -1,4 +1,6 @@
 # password-validation
+preview at: trinity-password-validation.netlify.com
+***
 Exercise Directions:
 - Password = "MsDoubtFire"
 - Create input on DOM
